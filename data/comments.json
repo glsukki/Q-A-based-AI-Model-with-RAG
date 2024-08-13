@@ -1,0 +1,74 @@
+[
+  {
+    "id": "0aef6807-05a5-48ef-b130-87fe5c262106",
+    "metadata": {
+      "text": "Congratulations on securing the $20m seed round! \ud83d\ude80 Exciting to see your focus on solving real-world problems with LLMs. Can you share more details on the specific projects or use cases you'll be targeting first?"
+    }
+  },
+  {
+    "id": "85ad661d-7ad0-4d0d-8e18-67c4891223a0",
+    "metadata": {
+      "text": "Impressive backgrounds! \ud83d\ude2e How do you plan to address the challenges related to data privacy in AI deployments? It's a critical concern, and I'm curious about the approaches you'll take to ensure enterprises can trust your solutions."
+    }
+  },
+  {
+    "id": "b963bbeb-5c6e-46b8-885f-3eeabbcdba97",
+    "metadata": {
+      "text": "Love the emphasis on customizability and solving the hallucination problem. Can you provide examples of industries or scenarios where you think your specialized AI approach will make the most impact?"
+    }
+  },
+  {
+    "id": "dc4e214c-f997-4d05-81c1-a4cadc5699d8",
+    "metadata": {
+      "text": "This is really exciting! As an engineer at a large enterprise, I'm very interested in how your models can help solve our data privacy and compliance issues. Looking forward to seeing your progress."
+    }
+  },
+  {
+    "id": "8885c1f6-c3cf-4619-b434-0363ca7734dd",
+    "metadata": {
+      "text": "As an AI researcher, I'm intrigued by your retrieval-augmented approach. Combining the strengths of large generative models with retrievers seems promising. Curious to try out your models when they're available!"
+    }
+  },
+  {
+    "id": "3d402dea-b7ac-4fd1-b5e6-3bd13deb1b2a",
+    "metadata": {
+      "text": "How will you ensure your models don't inherit the biases and safety issues of existing LLMs? Would love to see more technical details on your methods for avoiding hallucination and staleness."
+    }
+  },
+  {
+    "id": "8750980f-e716-4535-bd8d-f72fe58152a4",
+    "metadata": {
+      "text": "As a startup founder myself, I know how hard early-stage company building can be. Wishing you perseverance and fortitude through the ups and downs! Rooting for your success."
+    }
+  },
+  {
+    "id": "a654b80c-cba3-4191-b438-012b51cbae7d",
+    "metadata": {
+      "text": "Do you plan to make enterprise-focused LLMs available via API in the future? I could see many companies wanting easy access without running models locally."
+    }
+  },
+  {
+    "id": "3483f83e-5602-4bf1-960b-24951456e1ec",
+    "metadata": {
+      "text": "Amazing to see emerging players in the LLM space. Competition breeds innovation! Hoping your company spurs more advancement in responsible, tailored AI."
+    }
+  },
+  {
+    "id": "7b55c4f9-e2ae-41ab-a086-18f38c3bbef8",
+    "metadata": {
+      "text": "Can your techniques help reduce training costs for large models? One huge barrier to progress is compute requirements. Any work on efficient training would be impactful."
+    }
+  },
+  {
+    "id": "f94c6656-3078-4091-8d52-83783b880b35",
+    "metadata": {
+      "text": "How do you plan to balance general capabilities with specialization? There may be value in some general world knowledge alongside customized models. Curious about your thinking there."
+    }
+  },
+  {
+    "id": "f9d77132-86e0-46a7-aaa9-8ce28e3f6a09",
+    "metadata": {
+      "text": "As an industry analyst, I'll be following your company closely as you build out enterprise AI capabilities. My clients increasingly want capable yet controllable LLMs. You're tackling a clear gap!"
+    }
+  }
+]
